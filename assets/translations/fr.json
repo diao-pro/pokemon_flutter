@@ -1,0 +1,17 @@
+{
+  "sign_in": "Se connecter",
+  "sign_up": "S'inscrire",
+  "or": "Ou",
+  "email_username": "Email ou nom d'utilisateur",
+  "enter_password": "Entrez le mot de passe",
+  "forgot_password": "Mot de passe oublié",
+  "not_have_account": "Vous n'avez pas de compte",
+  "create_account": "Créer un compte",
+  "already_have_account": "Vous avez déjà un compte",
+  "terms_Conditions": "Termes et conditions",
+  "i_agree_to_the": "Je suis d'accord avec le",
+  "confirm_password": "Confirmez le mot de passe",
+  "password": "Mot de passe",
+  "email" : "E-mail",
+  "username": "Nom d'utilisateur"
+}

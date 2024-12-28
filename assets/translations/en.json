@@ -1,0 +1,17 @@
+{
+  "sign_in": "Sign In",
+  "sign_up": "Sign up",
+  "or": "Or",
+  "email_username": "Email or username",
+  "enter_password": "Enter password",
+  "forgot_password": "Forgot password",
+  "not_have_account": "You don't have an account",
+  "create_account": "Create an account",
+  "already_have_account": "Already have an account",
+  "terms_Conditions": "Terms and Conditions",
+  "i_agree_to_the": "I agree to the",
+  "confirm_password": "Confirm password",
+  "password": "Password",
+  "email" : "Email",
+  "username": "Username"
+}
